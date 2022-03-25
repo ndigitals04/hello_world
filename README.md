@@ -5,4 +5,4 @@ git
 
 Science
 # Contributions
-This can be made via (./docs/CONTRIBUTING.md)
+This can be made via (docs/CONTRIBUTING.md)
